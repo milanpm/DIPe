@@ -1,44 +1,39 @@
-# Hi there 👋
+# DIPe
 
-I'm Alex K.
+Digital Image Processing Expert
 
-## Machine Vision & Digital Image Processing Engineer
+## Overview
 
-I have over 15 years of experience developing industrial and medical imaging software.
+DIPe is a personal learning and portfolio project for digital image processing and machine vision.
 
-### Interests
+This repository contains Python and OpenCV examples for understanding image processing fundamentals and practical machine vision techniques.
 
-- Machine Vision
-- Digital Image Processing
-- Industrial Imaging
-- Medical Imaging
-- Computer Vision
-- NIR Imaging
-- OpenCV
-- Python
-- C#
+## Topics
 
-### Currently Working On
+- Image Read / Write
+- Histogram Analysis
+- Thresholding
+- Filtering
+- Edge Detection
+- Morphology
+- Contour Analysis
+- Blob Analysis
+- Template Matching
+- ROI Processing
+- Camera Calibration
 
-- DIPe (Digital Image Processing Expert)
-- jView (NIR Image Viewer)
-- OpenCV Examples
-- Machine Vision Portfolio
-
-### Learning
-
-- AI Vision
-- YOLO
-- Git & GitHub
-- Modern C++
-
-## Skills
+## Tech Stack
 
 - Python
-- C#
 - OpenCV
-- Image Processing
-- Machine Vision
-- Industrial Imaging
-- Medical Imaging
-- Flask
+- NumPy
+- Matplotlib
+
+## Project Goal
+
+The goal of this project is to build a practical image processing portfolio for Machine Vision and Industrial Imaging applications.
+
+## Author
+
+Alex K.  
+Imaging Software Engineer | Machine Vision | Digital Image Processing
